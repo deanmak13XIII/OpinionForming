@@ -1,0 +1,15 @@
+joblib
+numpy
+pandas
+plotly
+python_igraph==0.10.4
+PyYAML
+scikit_learn
+scipy
+gunicorn
+dash
+dash_bootstrap_components
+dash_bootstrap_templates
+igraph
+sklearn
+scikit-learn
